@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chris\\source\\repos\\SimpleBank\\SimpleBank\\SimpleBank.csproj": {}
+    "C:\\Users\\chris\\Documents\\Learning\\C#\\Exercises\\SimpleBank\\SimpleBank\\SimpleBank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chris\\source\\repos\\SimpleBank\\SimpleBank\\SimpleBank.csproj": {
+    "C:\\Users\\chris\\Documents\\Learning\\C#\\Exercises\\SimpleBank\\SimpleBank\\SimpleBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris\\source\\repos\\SimpleBank\\SimpleBank\\SimpleBank.csproj",
+        "projectUniqueName": "C:\\Users\\chris\\Documents\\Learning\\C#\\Exercises\\SimpleBank\\SimpleBank\\SimpleBank.csproj",
         "projectName": "SimpleBank",
-        "projectPath": "C:\\Users\\chris\\source\\repos\\SimpleBank\\SimpleBank\\SimpleBank.csproj",
+        "projectPath": "C:\\Users\\chris\\Documents\\Learning\\C#\\Exercises\\SimpleBank\\SimpleBank\\SimpleBank.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris\\source\\repos\\SimpleBank\\SimpleBank\\obj\\",
+        "outputPath": "C:\\Users\\chris\\Documents\\Learning\\C#\\Exercises\\SimpleBank\\SimpleBank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",

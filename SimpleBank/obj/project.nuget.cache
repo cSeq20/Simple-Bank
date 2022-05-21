@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IfrjHPpj34NZ7hPaXvj8DnU4qUVg5qpebg1Ej8Q4bawTfVCLbCtAlFX3A23pt21FFTMyWT9ftfIYmAg5WIoyPg==",
+  "dgSpecHash": "OkGyd+R+NQbx2M3c8OgFXSXZQ76JdJCGX5W6twUXiroArF7AtT1OJJPhy3z0W/lxzwN/kaDtILcmx313iaChAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chris\\source\\repos\\SimpleBank\\SimpleBank\\SimpleBank.csproj",
+  "projectFilePath": "C:\\Users\\chris\\Documents\\Learning\\C#\\Exercises\\SimpleBank\\SimpleBank\\SimpleBank.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
